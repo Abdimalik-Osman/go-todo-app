@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"golang-react-todo/router"
+	"github.com/Abdimalik-Osman/golang-react-todo/router"
 )
 
 func main() {
